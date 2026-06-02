@@ -1,0 +1,6 @@
+name: PairGame
+version: '1.0-SNAPSHOT'
+main: plugin.pairGame.Main
+api-version: '1.21'
+commands:
+  gameStart:
