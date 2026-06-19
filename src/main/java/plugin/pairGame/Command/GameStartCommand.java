@@ -56,6 +56,7 @@ public class GameStartCommand implements CommandExecutor, Listener {
                 return false;
             }
 
+            //ブロックに数字を割り振る用のリスト作成
             for (int i = 1; i <= 8; i++) {
                 warifuriList.add(i);
                 warifuriList.add(i);
